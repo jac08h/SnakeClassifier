@@ -5,7 +5,7 @@
 A neural network model that decides between Coral Snake and Kingsnake.
 
 #### Approach
-* I was following the [fastai course](https://course.fast.ai/)- [Chapter 2](https://github.com/fastai/fastbook/blob/master/02_production.ipynb).
+* I was following the [fastai course](https://course.fast.ai/) - [Chapter 2](https://github.com/fastai/fastbook/blob/master/02_production.ipynb).
 * The model was trained using ~100 images of each snake species. Variations of the images were created using data augmentation.
 * Accuracy of the model is about 90%.
 
